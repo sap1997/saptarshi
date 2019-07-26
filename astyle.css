@@ -1,0 +1,27 @@
+h1{
+	color: red;
+}
+.one
+{
+  font-family: 'DM Serif Display', serif;
+	font-size: 1.25em; 
+}
+.two
+{
+	background-image: url(mn.jpg);
+	padding-left: 380px;
+	padding-right:auto;
+	background-attachment: fixed;
+}
+.color
+{
+	color: rgb(227, 245, 66);
+	font-size: 2.5em;
+	margin: 30px;
+}
+ol,h4,h5
+{
+	color: #cc630c;
+	font-family: Sans-serif	;
+	font-size: 3em;
+}
